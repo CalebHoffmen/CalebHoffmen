@@ -41,15 +41,6 @@ I'm looking for ways to combine finance, statistics, and software engineering to
 
 ---
 
-## Outside of Coding
-
--  Working out
--  Martial arts
--  Investing
--  Video Games
-
----
-
 ## Connect
 
 - Phone: 512-567-8664
