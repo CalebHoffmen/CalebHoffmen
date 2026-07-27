@@ -23,6 +23,7 @@ I'm looking for ways to combine finance, statistics, and software engineering to
 ## Tech Stack
 
 Python • Pandas • NumPy • Streamlit • Plotly • Git
+
 ---
 
 ## Current Projects
